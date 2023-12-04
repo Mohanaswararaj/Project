@@ -31,22 +31,10 @@ To design a user class for an expense tracker, we can identify different types o
 **3.Expense Tracking:**
 - Reliable and efficient expense tracking to monitor spending habits.
 
-**4.Alerts and Notifications:**
-- Notifications for overspending or when approaching budget limits.
-
-**5.Reports and Insights:**
-- Basic reporting features to provide insights into spending patterns over time.
-
-**6.Multi-Platform Access:**
-- Support for multiple platforms, including mobile apps and web access.
-
-**7.Security:**
+**4.Security:**
 - Robust security features to ensure the safety of financial data.
 
-**8.Flexibility:**
-- Customizable to accommodate different financial situations and goals.
 
-This Expense tracker seek a pratical and accessable solution for managing their day to day expense.The expense tracker should cater to their diverse financial needs while offering a strightforward and user friendil experience.
 
 ## Operating Environment
 **1.Device Independence:**
